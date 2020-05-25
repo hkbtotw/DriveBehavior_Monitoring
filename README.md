@@ -9,4 +9,4 @@ Associated code with the DriveBehavior android application version
 <b>Sample Images:<br/></b>
 Web Application UI
 
-<img src=https://github.com/hkbtotw/DriverBehavior_Monitoring/blob/master/ScreenCapture.JPG alt="Demo UI" width="800"/>
+<img src=https://github.com/hkbtotw/DriveBehavior_Monitoring/blob/master/ScreenCapture.JPG alt="Demo UI" width="800"/>
